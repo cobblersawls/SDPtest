@@ -7,7 +7,7 @@ public class Lecture11Test {
 	public static void main(String[] args) {
 
 		System.out.println(" --------------------------------------------------------");
-		System.out.println("| S T U D E N T    R E S U L T    C A R D    S Y S T E M |");
+		System.out.println("| Tom you stinks so much |");
 		System.out.println("|--------------------------------------------------------|");
 		System.out.println("| 1. PRINT RECORDS                                       |");
 		System.out.println("| 2. ADD NEW RECORD                                      |");
